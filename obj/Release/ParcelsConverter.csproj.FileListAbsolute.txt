@@ -1,0 +1,13 @@
+C:\Users\Main\source\repos\ParcelsConverter\bin\Release\ParcelsConverter.exe.config
+C:\Users\Main\source\repos\ParcelsConverter\bin\Release\ParcelsConverter.exe
+C:\Users\Main\source\repos\ParcelsConverter\bin\Release\ParcelsConverter.pdb
+C:\Users\Main\source\repos\ParcelsConverter\bin\Release\netDxf.dll
+C:\Users\Main\source\repos\ParcelsConverter\bin\Release\netDxf.xml
+C:\Users\Main\source\repos\ParcelsConverter\obj\Release\ParcelsConverter.csprojAssemblyReference.cache
+C:\Users\Main\source\repos\ParcelsConverter\obj\Release\ParcelsConverter.Properties.Resources.resources
+C:\Users\Main\source\repos\ParcelsConverter\obj\Release\ParcelsConverter.Win_Prop.resources
+C:\Users\Main\source\repos\ParcelsConverter\obj\Release\ParcelsConverter.csproj.GenerateResource.cache
+C:\Users\Main\source\repos\ParcelsConverter\obj\Release\ParcelsConverter.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\ParcelsConverter\obj\Release\ParcelsConverter.csproj.CopyComplete
+C:\Users\Main\source\repos\ParcelsConverter\obj\Release\ParcelsConverter.exe
+C:\Users\Main\source\repos\ParcelsConverter\obj\Release\ParcelsConverter.pdb

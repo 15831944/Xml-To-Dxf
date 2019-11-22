@@ -1,0 +1,14 @@
+C:\Users\Main\source\repos\ParcelsConverter\bin\Debug\ParcelsConverter.exe.config
+C:\Users\Main\source\repos\ParcelsConverter\bin\Debug\ParcelsConverter.exe
+C:\Users\Main\source\repos\ParcelsConverter\bin\Debug\ParcelsConverter.pdb
+C:\Users\Main\source\repos\ParcelsConverter\bin\Debug\netDxf.dll
+C:\Users\Main\source\repos\ParcelsConverter\bin\Debug\netDxf.xml
+C:\Users\Main\source\repos\ParcelsConverter\obj\Debug\XmlToDxf.csprojAssemblyReference.cache
+C:\Users\Main\source\repos\ParcelsConverter\obj\Debug\ParcelsConverter.Properties.Resources.resources
+C:\Users\Main\source\repos\ParcelsConverter\obj\Debug\ParcelsConverter.Win_Prop.resources
+C:\Users\Main\source\repos\ParcelsConverter\obj\Debug\XmlToDxf.csproj.GenerateResource.cache
+C:\Users\Main\source\repos\ParcelsConverter\obj\Debug\XmlToDxf.csproj.CoreCompileInputs.cache
+C:\Users\Main\source\repos\ParcelsConverter\obj\Debug\XmlToDxf.csproj.CopyComplete
+C:\Users\Main\source\repos\ParcelsConverter\obj\Debug\ParcelsConverter.exe
+C:\Users\Main\source\repos\ParcelsConverter\obj\Debug\ParcelsConverter.pdb
+C:\Users\Main\source\repos\ParcelsConverter\bin\Debug\icon.ico
