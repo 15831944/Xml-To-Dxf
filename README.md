@@ -7,7 +7,7 @@
 3. Нажмите "1".
 ## Как пользоваться
 Теперь при правом клике по файлам расширения .xml, будет появлятся строка "to DXF".
-[Image alt](https://github.com/adv25/Xml-To-Dxf/raw/master/title.jpg)
+![alt Screenshot](https://github.com/adv25/Xml-To-Dxf/raw/master/title.jpg)
 dxf файлы создаются в тойже директории что и xml файл, с тем же названием.
 ## Удаление
 1. Запустите от имени администратора файл "ParcelsConverter.exe".
